@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreenMenu.unity
+    guid: c60f164c06a4a410bbef9b547c1af814
+  - enabled: 1
+    path: Assets/Scenes/CubaMap.unity
+    guid: 3867ab226614848639dcc6e88e694f85

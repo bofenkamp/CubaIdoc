@@ -11,3 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CubaMap.unity
     guid: 3867ab226614848639dcc6e88e694f85
+  - enabled: 1
+    path: Assets/Scenes/Camapaguey.unity
+    guid: 09184d29cf8b34208934bc81069b4bef
+  - enabled: 1
+    path: Assets/Scenes/360test.unity
+    guid: 5721105787f0c42718bc37be4893260f
+  - enabled: 1
+    path: Assets/Scenes/VideoTest.unity
+    guid: 10402c3183e474b08b6e432dd58c606a

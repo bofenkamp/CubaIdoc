@@ -53,3 +53,4 @@
 /Users/matthewbofenkamp/Documents/18S Classes/Mediated Narrative/CubaIdoc/CubaIdoc/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
 /Users/matthewbofenkamp/Documents/18S Classes/Mediated Narrative/CubaIdoc/CubaIdoc/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll
 /Users/matthewbofenkamp/Documents/18S Classes/Mediated Narrative/CubaIdoc/CubaIdoc/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll.mdb
+/Users/matthewbofenkamp/Documents/18S Classes/Mediated Narrative/CubaIdoc/CubaIdoc/Temp/bin/Debug/UnityEditor.AppleTV.Extensions.dll
